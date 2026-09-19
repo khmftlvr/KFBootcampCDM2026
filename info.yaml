@@ -2,7 +2,7 @@
 project:
   wokwi_id:   354858054593504257
   title: CDM BOOTCAMP 2026
-  author: Your name
+  author: Fer Edrick Labay and Khim Fetalvero
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description: "BOOTCAMP" 
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
